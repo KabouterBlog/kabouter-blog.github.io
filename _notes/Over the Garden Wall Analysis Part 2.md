@@ -4,10 +4,10 @@ feed: show
 date: 2024-02-04
 permalink: 2024/02/Over the Garden Wall Analysis Part 2
 ---
-Continuation from the [previous post](<Over the Garden Wall Analysis Part 1>). again, **SPOILERS** for all of Over the Garden Wall! Trust me, this is _not_ the way the series was meant to be consumed.
-
+Previous Posts:
+- [[Over the Garden Wall Analysis Part 1]]
+Again, **SPOILERS** for all of Over the Garden Wall! Trust me, this is _not_ the way the series was meant to be consumed.
 ## Episode 6: Lullaby in Frogland
-
 - 0:00
 	- Wirt and Beatrice TALK
 - 1:00

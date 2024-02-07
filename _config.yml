@@ -69,6 +69,9 @@ collections:
     notes:
       output: true
       permalink: /note/:title
+    blog:
+      output: true
+      permalink: /blog/:title
 
 markdown: kramdown
 
@@ -95,6 +98,7 @@ defaults:
       type: notes
     values:
       layout: Post
+      permalink: /note/:year/:month/:title
       content-type: notes
 
 
